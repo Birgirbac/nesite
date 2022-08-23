@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-22_1043",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -704,7 +704,7 @@
               "margin-top": "auto !important"
             },
             ".mbr-section-title": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left"
@@ -714,6 +714,9 @@
             },
             ".item-subtitle": {
               "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#fafafa"
             }
           },
           "_name": "features3",
